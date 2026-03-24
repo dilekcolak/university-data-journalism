@@ -73,14 +73,15 @@ university_data_journalism/
 
 ```bash
 git clone https://github.com/dilekcolak/university-data-journalism.git
+
 cd university-data-journalism
 ```
 
 ### 2. Create virtual environment (recommended)
 
-python -m venv venv
+    python -m venv venv
 
-venv\Scripts\activate # Windows
+    venv\Scripts\activate # Windows
 
 ### 3. Install dependencies
 
@@ -115,43 +116,44 @@ http://localhost:8501
 
 ## 🧠 AI Commentary
 
-The system generates automatic insights based on:
+- The system generates automatic insights based on:
 
-Selected filters (year, city, score type)
+- Selected filters (year, city, score type)
 
-Trends in the data
+- Trends in the data
 
-Top and bottom values
+- Top and bottom values
 
-Demand and competitiveness metrics
+- Demand and competitiveness metrics
 
 ## 💡 Example Analyses
 
-Top departments by average score
+- Top departments by average score
 
-Most demanded departments
+- Most demanded departments
 
-Most competitive departments
+- Most competitive departments
 
-City-based preference analysis
+- City-based preference analysis
 
-Yearly score trends
+- Yearly score trends
 
-Fastest rising departments
+- Fastest rising departments
 
-University comparisons
+- University comparisons
 
 ## 🛠 Tech Stack
 
-Python
+- Python
 
-Pandas
+- Pandas
 
-Plotly
+- Plotly
 
-Streamlit
+- Streamlit
 
 ## 👥 Contributors
 
-Dilek Miraç Çolak
-Zeyneb Çınar
+- Dilek Miraç Çolak
+
+- Zeyneb Çınar
