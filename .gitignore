@@ -1,0 +1,16 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Data (çok önemli)
+data/raw/
+data/processed/
+
+# Env
+venv/
+
+# System
+.DS_Store
